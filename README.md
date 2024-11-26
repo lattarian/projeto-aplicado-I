@@ -2,6 +2,10 @@
 
 # Análise Exploratória de Dados: Correlacionando Índice Socioeconômico (Inse) e Indicadores Educacionais
 
+## Apresentação final 
+
+[Link para apresentação](https://youtu.be/foZRVKJgnag)
+
 ## Descrição do Projeto
 
 Este projeto tem como objetivo investigar a correlação entre o Índice Socioeconômico das Escolas (Inse) e indicadores educacionais, com foco especial nos resultados do Sistema de Avaliação da Educação Básica (Saeb). A análise exploratória de dados (EDA) será utilizada para entender melhor as relações entre as variáveis e identificar padrões ou insights relevantes que possam ajudar a melhorar a compreensão sobre o impacto das condições socioeconômicas no desempenho educacional.
