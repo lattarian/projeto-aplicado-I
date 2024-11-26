@@ -2,9 +2,12 @@
 
 # Análise Exploratória de Dados: Correlacionando Índice Socioeconômico (Inse) e Indicadores Educacionais
 
-## Apresentação final 
+## Apresentação final
+
+[Documento final](https://github.com/lattarian/projeto-aplicado-I/blob/main/Projeto%20Aplicado%20I.pdf)
 
 [Apresentação do projeto](https://youtu.be/foZRVKJgnag)
+
 
 ## Descrição do Projeto
 
